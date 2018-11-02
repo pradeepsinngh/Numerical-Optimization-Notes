@@ -18,3 +18,4 @@ Broadly Numerical Optimizations can be divided into 3 categories:
 3.) **Pattern search methods** : adapted to noisy cost functions
  - Nelder-Mead simplex, 
  - Torczon’s multidirectional search, etc.
+ 
