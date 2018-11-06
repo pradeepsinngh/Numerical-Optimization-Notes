@@ -1,6 +1,6 @@
 # Numerical Optimization Notes
 
-Broadly numerical optimizations algorithms can be divided into 3 categories:-
+Broadly numerical optimizations algorithms can be divided into 3 categories:--
 
 1.) **Descent methods** : adapted to convex cost functions
  - steepest descent, 
