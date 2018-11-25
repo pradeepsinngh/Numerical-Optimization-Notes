@@ -1,6 +1,6 @@
 # Numerical Optimization Notes
 
-This repo hosts my implememtations for different oprtimization algorithms. Broadly numerical optimizations algorithms can be divided into 3 categories:--
+This repo hosts my implememtations for different optimization algorithms. Broadly numerical optimizations algorithms can be divided into 3 categories:--
 
 1.) **Descent methods** : adapted to convex cost functions
  - steepest descent, 
