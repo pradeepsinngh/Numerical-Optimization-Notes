@@ -12,6 +12,7 @@ repeat
     3. Update. x := x + tx.
 until stopping criterion is satisfied.
 '''
+
 from matplotlib.pyplot import *
 import numpy as np
 from LinearSearchMethods.StepSize.WolfeLineSearch import WolfeLineSearch
