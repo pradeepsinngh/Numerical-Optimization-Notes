@@ -1,7 +1,5 @@
-# coding=utf-8
-# @Author: yangenneng
-# @Time: 2018-05-05 20:28
-# @Abstract： Gradient Descent method based on backtracking line search
+
+# Abstract： Gradient Descent method based on backtracking line search
 
 '''
 Gradient descent method.
